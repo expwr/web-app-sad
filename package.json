@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "homepage": "https://www.softwaredevelopment.education/noah/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
